@@ -3,7 +3,7 @@ import "./WindowWidthTracker.scss";
 function WindowWidthTracker() {
     return (
         <h1 className="tracker">
-            hello
+            Window width: {window.innerWidth}
         </h1>
     )
 }
