@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-window-width-tracker/static/css/main.755250da.css",
+    "main.js": "/react-window-width-tracker/static/js/main.efa9e5e2.js",
+    "static/js/787.5845fcca.chunk.js": "/react-window-width-tracker/static/js/787.5845fcca.chunk.js",
+    "index.html": "/react-window-width-tracker/index.html",
+    "main.755250da.css.map": "/react-window-width-tracker/static/css/main.755250da.css.map",
+    "main.efa9e5e2.js.map": "/react-window-width-tracker/static/js/main.efa9e5e2.js.map",
+    "787.5845fcca.chunk.js.map": "/react-window-width-tracker/static/js/787.5845fcca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.755250da.css",
+    "static/js/main.efa9e5e2.js"
+  ]
+}
