@@ -2,12 +2,12 @@ import "./WindowWidthTracker.scss";
 import {useEffect, useState} from "react";
 
 function WindowWidthTracker() {
-    const [windowWidth, setWindowWidt] = useState(window.innerWidth);
+    const [windowWidth, setWindowWidth] = useState(window.innerWidth);
     console.log({windowWidth});
 
     useEffect(() => {
        window.addEventListener("resize", function() {
-           setWindowWidt(window.innerWidth);
+           setWindowWidth(window.innerWidth);
        }); 
     }, [])
 
